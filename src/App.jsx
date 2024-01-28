@@ -1,7 +1,7 @@
 import Container from 'react-bootstrap/Container'
 
 import { Posts } from "./components/Posts"
-import Header from './components/Header'
+import Header from './components/header'
 import Body from './components/Body'
 import Whiteboard from './components/Whiteboard'
 import Register from './components/forms/Register'
